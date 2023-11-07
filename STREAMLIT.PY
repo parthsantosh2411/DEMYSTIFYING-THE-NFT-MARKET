@@ -80,14 +80,8 @@ st.markdown("""
     }
 </style>
     """, unsafe_allow_html=True)
-nft_image_paths = ["DALL·E 2023-10-27 03.24.26 - Photo of a futuristic cityscape at dusk with neon lights reflecting on the water and flying cars zooming past skyscrapers. People of various descents .png",
-"DALL·E 2023-10-27 03.24.30 - Watercolor painting of a serene beach where the sand is pixelated and the waves form a digital pattern. In the distance, a lighthouse beams a WiFi sig.png",
-"DALL·E 2023-10-27 03.25.50 - Oil painting of a desolate urban landscape post-apocalypse. Buildings are in ruins, the sky is overcast with dark clouds, and the streets are flooded.png",
-"DALL·E 2023-10-27 03.25.54 - Vector design of a broken digital clock, its numbers glitching and shifting erratically. The background is a chaotic swirl of dark colors, and fractur.png",
-"DALL·E 2023-10-27 03.31.58 - Oil painting of a serene evening where the duo, with wheatish complexion and glasses, paints each other's portrait. The male's canvas captures the ess.png",
-"DALL·E 2023-10-27 03.41.57 - Photo of a dreamy universe where countless stars form the shape of two faces gazing into each other's eyes. Around this celestial portrait, nebulas an.png"
-]
-logo_path = "DALL·E 2023-10-27 14.25.15 - Photo logo of a luxurious digital coin adorned with intricate patterns reminiscent of ancient Indian temple architecture. The coin's center features a.png"
+nft_image_paths = ["NFT_1.png","NFT_2.png","NFT_3.png","NFT_4.png","NFT_5.png","NFT_6.png","NFT_7.png","NFT_8.png"]
+logo_path = "LOGO.png"
 # Main Function
 def main():
     st.title("Welcome to NFT Explorer and Price Predictor!")
