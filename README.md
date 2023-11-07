@@ -50,6 +50,4 @@ The prediction models are trained on data from 2019-2021. Predictions might not 
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
